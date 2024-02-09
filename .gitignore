@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+/venv
+/venv/lib/python3.10/site-packages
